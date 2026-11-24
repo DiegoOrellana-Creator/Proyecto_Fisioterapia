@@ -1,0 +1,18 @@
+{
+    "Showing": "Mostrando",
+    "to": "a",
+    "of": "de",
+    "results": "resultados",
+    "Pagination Navigation": "Navegación de páginas",
+    "Go to page :page": "Ir a la página :page",
+    "&laquo; Previous": "&laquo; Anterior",
+    "Next &raquo;": "Siguiente &raquo;",
+    "Verify Email Address": "Verifica tu correo",
+    "Reset Password Notification": "Cambio de contraseña",
+    "You are receiving this email because we received a password reset request for your account.": "Recibimos una solicitud para cambiar la contraseña de tu cuenta.",
+    "Reset Password": "Cambiar contraseña",
+    "This password reset link will expire in :count minutes.": "Este enlace vence en :count minutos.",
+    "If you did not request a password reset, no further action is required.": "Si no lo pediste, ignora este correo.",
+    "Hello!": "¡Hola!",
+    "Regards,": "Saludos,"
+}
